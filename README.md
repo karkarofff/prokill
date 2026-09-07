@@ -59,7 +59,8 @@ L'exécutable est généré dans `dist/`.
 
 ## Captures d'écran
 
-<!-- TODO : glisser une capture de l'app ici -->
+<img width="1138" height="703" alt="Capture d’écran 2026-09-07 023424" src="https://github.com/user-attachments/assets/192816af-66e1-43fb-b8d7-fdbc9f66f65d" />
+
 
 ## Prérequis
 
